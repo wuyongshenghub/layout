@@ -32,7 +32,8 @@
     width: 200px;
 }
 #wrapper{
-    background: #2e3c4e;
+    background: #f5f5f5;
+    /*#background: #2e3c4e;*/
 }
 .navbar-default .navbar-nav>li>a{
     color:white;
